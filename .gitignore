@@ -1,0 +1,7 @@
+.idea/
+rollback/
+target/
+.settings/
+*.iml
+work/
+.idea/vcs.xml
